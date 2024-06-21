@@ -1,0 +1,10 @@
+.tooltipLine {
+  stroke: var(--color-secondary);
+  stroke-width: 1;
+}
+
+.tooltipPointer {
+  fill: var(--color-secondary);
+  pointer-events: none;
+  stroke: var(--color-secondary);
+}

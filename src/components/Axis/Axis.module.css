@@ -1,0 +1,17 @@
+.axis {
+  path,
+  line {
+    stroke: var(--color-primary);
+  }
+
+  g {
+    font-family: "Nunito";
+    font-size: var(--font-size-16);
+
+    color: var(--color-primary);
+  }
+
+  text {
+    color: var(--color-primary);
+  }
+}
